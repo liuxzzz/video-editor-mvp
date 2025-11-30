@@ -1,0 +1,5 @@
+{
+  "name": "ReactVideoCut",
+  "description": "A functional, web-based non-linear video editor featuring drag-and-drop assets, timeline sequencing, and real-time preview.",
+  "requestFramePermissions": []
+}
